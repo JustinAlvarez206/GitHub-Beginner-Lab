@@ -37,9 +37,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(263, 180);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(301, 22);
+            this.label1.Size = new System.Drawing.Size(260, 22);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Student Profile GitHub Beginner Lab";
+            this.label1.Text = "Contact Number: 09956707944";
             // 
             // Form1
             // 
